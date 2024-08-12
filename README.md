@@ -1,5 +1,5 @@
 # Projeto-ALA
-Repositório criado por Leanderson Borges para armazenar informações, dados e conteúdo do projeto ALA.
+Repositório criado por Leanderson Borges para armazenar as informações, dados e conteúdo do projeto ALA.
 
 O projeto ALA (Automatização das Luzes do Auditório) é um projeto de extensão que insiste na implementação automática do jogo de luzes do auditório do IFRN campus Ceará-Mirim, isso através da criação de um software, onde podemos regular a intensidade da luz.
 
